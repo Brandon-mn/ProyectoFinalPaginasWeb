@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <cita>
+  <fecha>0000-00-00</fecha>
+  <hora>08:00:00</hora>
+  <paciente/>
+  <medico/>
+ </cita>
+ <cita>
+  <fecha>2023-05-18</fecha>
+  <hora>06:42:00</hora>
+  <paciente/>
+  <medico/>
+ </cita>
+ <cita>
+  <fecha>2023-05-24</fecha>
+  <hora>08:29:00</hora>
+  <paciente/>
+  <medico/>
+ </cita>
+ <cita>
+  <fecha>2023-06-01</fecha>
+  <hora>22:11:00</hora>
+  <paciente/>
+  <medico/>
+ </cita>
+</tabla>

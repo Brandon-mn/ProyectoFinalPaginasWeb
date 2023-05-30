@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <tratamiento>
+  <descripcion>asd</descripcion>
+  <duracion>asd</duracion>
+  <dosis>asd</dosis>
+  <costo>22222222222222222222</costo>
+  <id_enfermedad>2</id_enfermedad>
+ </tratamiento>
+ <tratamiento>
+  <descripcion>zzzzzzzzz</descripcion>
+  <duracion>ssss</duracion>
+  <dosis>dss</dosis>
+  <costo>123123</costo>
+  <id_enfermedad>2</id_enfermedad>
+ </tratamiento>
+ <tratamiento>
+  <descripcion>wewwwww</descripcion>
+  <duracion>www</duracion>
+  <dosis>wwww</dosis>
+  <costo>499849898595</costo>
+  <id_enfermedad>2</id_enfermedad>
+ </tratamiento>
+</tabla>

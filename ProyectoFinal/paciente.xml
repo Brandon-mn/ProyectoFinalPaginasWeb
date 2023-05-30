@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <paciente>
+  <nombre>pepe</nombre>
+  <apellidos>lira</apellidos>
+  <direccion>frontera</direccion>
+  <telefono>1</telefono>
+ </paciente>
+ <paciente>
+  <nombre>yayo</nombre>
+  <apellidos>diaz</apellidos>
+  <direccion>su casa</direccion>
+  <telefono>2</telefono>
+ </paciente>
+</tabla>

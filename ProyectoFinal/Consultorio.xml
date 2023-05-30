@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <Consultorio>
+  <direccion>modificado</direccion>
+  <telefono>2555</telefono>
+  <nombre>modificado</nombre>
+  <horario>9:00am a 11:00pm</horario>
+ </Consultorio>
+ <Consultorio>
+  <direccion></direccion>
+  <telefono>34</telefono>
+  <nombre></nombre>
+  <horario></horario>
+ </Consultorio>
+ <Consultorio>
+  <direccion></direccion>
+  <telefono>8662384527</telefono>
+  <nombre></nombre>
+  <horario></horario>
+ </Consultorio>
+ <Consultorio>
+  <direccion></direccion>
+  <telefono>124124</telefono>
+  <nombre></nombre>
+  <horario></horario>
+ </Consultorio>
+ <Consultorio>
+  <direccion></direccion>
+  <telefono>124132413</telefono>
+  <nombre></nombre>
+  <horario></horario>
+ </Consultorio>
+ <Consultorio>
+  <direccion>consultorio chidorris</direccion>
+  <telefono>8546546564</telefono>
+  <nombre>consultorio chidorris</nombre>
+  <horario>3565564</horario>
+ </Consultorio>
+</tabla>
